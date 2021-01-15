@@ -1,0 +1,13 @@
+C:\anees\Coding\C#_Learning_Path\numberOne\bin\Debug\netcoreapp3.1\numberOne.exe
+C:\anees\Coding\C#_Learning_Path\numberOne\bin\Debug\netcoreapp3.1\numberOne.deps.json
+C:\anees\Coding\C#_Learning_Path\numberOne\bin\Debug\netcoreapp3.1\numberOne.runtimeconfig.json
+C:\anees\Coding\C#_Learning_Path\numberOne\bin\Debug\netcoreapp3.1\numberOne.runtimeconfig.dev.json
+C:\anees\Coding\C#_Learning_Path\numberOne\bin\Debug\netcoreapp3.1\numberOne.dll
+C:\anees\Coding\C#_Learning_Path\numberOne\bin\Debug\netcoreapp3.1\numberOne.pdb
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.csprojAssemblyReference.cache
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.AssemblyInfoInputs.cache
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.AssemblyInfo.cs
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.csproj.CoreCompileInputs.cache
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.dll
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.pdb
+C:\anees\Coding\C#_Learning_Path\numberOne\obj\Debug\netcoreapp3.1\numberOne.genruntimeconfig.cache
